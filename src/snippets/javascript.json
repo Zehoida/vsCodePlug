@@ -1,0 +1,18 @@
+{
+	"var$": {
+		"prefix": "v'",
+		"body": [
+			"var ${1:key} = ;"
+		],
+		"description": "var a = 2;"
+	},
+	"function$": {
+		"prefix": "fun'",
+		"body": [
+			"function ${1:fun}() {",
+			"    ",
+			"}"
+		],
+		"description": "function xxx() { ... }"
+	}
+}

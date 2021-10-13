@@ -1,0 +1,24 @@
+{
+	"tem$": {
+		"prefix": "tem'",
+		"body": [
+			"<template>",
+			"    <section></section>",
+			"</template>",
+			"<script>",
+			"/**",
+			" * @description 这里填写组件描述",
+			" * @author name",
+			" * @date 2021-10-12",
+			" */",
+			"export default {",
+			"    name: '',",
+			"    data() {",
+			"        return {};",
+			"    }",
+			"}",
+			"</script>"
+		],
+		"description": "<template>"
+	}
+}
